@@ -3,13 +3,13 @@ layout: page
 title: Projects
 ---
 
-### [Nextflow pipelines](pipelinep.md)
+### Nextflow pipelines
 
 
-### [R Shiny applications](shinyp.md)
+### R Shiny applications
 
 
 ### Pipeline documentation
 
 
-### [Genetics - wet lab](geneticsp.md) 
+### Genetics - wet lab
