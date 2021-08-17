@@ -14,7 +14,7 @@ author: Kathryn (Katie) Evans
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects: "projects"
+  Projects:
     - Genetics: "geneticsp"
     - Pipeline development: "pipelinep"
     - Shiny apps: "shinyp"
