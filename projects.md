@@ -3,13 +3,11 @@ layout: page
 title: Projects
 ---
 
-### Nextflow pipelines
+![](/assets/img/nextflow.png)
+### [Nextflow pipelines]("pipelinep")
+
+![](/assets/img/rshiny.png)
+### [R Shiny applications]("shinyp")
 
 
-### R Shiny applications
-
-
-### Pipeline documentation
-
-
-### Genetics - wet lab
+### Pipeline documentation | ### Genetics - wet lab

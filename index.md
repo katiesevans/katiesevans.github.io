@@ -6,15 +6,9 @@ subtitle: 💻 Bioinformatician, Andersen Lab (Northwestern University)
 
 **🎓 Doctor of Philosophy (PhD) in Quantitative Genetics, 2015-2020**
 
-> Thesis: Investigating the Genetic Mechanisms of Phenotypic Variation in *Caenorhabditis elegans*
-
 > Northwestern University, Evanston, IL
 
 **🎓 Honors Bachelors of Art (HBA) in Cell and Molecular Biology, 2011-2015**
-
-> Minors in Chemistry and Spanish
-
-> Thesis: Defining the interaction between ETV4 and Mediator subunit MED25
 
 > University of Utah, Salt Lake City, UT
 
