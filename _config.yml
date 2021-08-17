@@ -14,7 +14,11 @@ author: Kathryn (Katie) Evans
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects: "projects"
+  Projects:
+    - Pipelines: "pipelinesp"
+    - Shiny: "shinyp"
+    - Documentation: "docsp"
+    - Genetics: "geneticsp"
   Publications: "publications"
   Education: 
     - Science blog: "https://phdisney.home.blog/"
