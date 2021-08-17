@@ -7,7 +7,7 @@ title: Publications
 
 :page_facing_up: **Evans K. S.**, M. H. van Wijk, P. T. McGrath, E. C. Andersen, and M. G. Sterken, 2021 [From QTL to gene: C. elegans facilitates discoveries of the genetic mechanisms underlying natural variation](https://doi.org/10.1016/j.tig.2021.06.005). Trends Genet.
 
-![]("/assests/img/QTG_review_20210519_final.png")
+![](/assets/img/QTG_review_20210519_final.png)
 
 * Innovations in quantitative trait loci mapping and genome editing have led to the discovery and validation of 37 genes and variants underlying phenotypic variation in *C. elegans*.
 * Numerous recombinant panels and a large collection of wild strains make *C. elegans* a formidable model to understand quantitative trait variation.
