@@ -5,7 +5,7 @@ title: Publications
 
 # Featured publications
 
-{% include callout.html content="**Evans K. S.**, M. H. van Wijk, P. T. McGrath, E. C. Andersen, and M. G. Sterken, 2021 [From QTL to gene: C. elegans facilitates discoveries of the genetic mechanisms underlying natural variation](https://doi.org/10.1016/j.tig.2021.06.005). Trends Genet." type="primary" %}  
+**Evans K. S.**, M. H. van Wijk, P. T. McGrath, E. C. Andersen, and M. G. Sterken, 2021 [From QTL to gene: C. elegans facilitates discoveries of the genetic mechanisms underlying natural variation](https://doi.org/10.1016/j.tig.2021.06.005). Trends Genet.
 
 *Although many studies have examined quantitative trait variation across many species, only a small number of genes and thereby molecular mechanisms have been discovered. Without these data, we can only speculate about evolutionary processes that underlie trait variation. Here, we review how quantitative and molecular genetics in the nematode Caenorhabditis elegans led to the discovery and validation of 37 quantitative trait genes over the past 15 years. Using these data, we can start to make inferences about evolution from these quantitative trait genes, including the roles that coding versus noncoding variation, gene family expansion, common versus rare variants, pleiotropy, and epistasis play in trait variation across this species.*
 
