@@ -65,3 +65,7 @@ subtitle: PhD and beyond
 💡 **Volunteer, 2017-2019**
 * Morning Mentors
 * Nicols Middle School, Evanston, IL
+
+### Skills & Interests
+
+![](/assets/img/interests.png)

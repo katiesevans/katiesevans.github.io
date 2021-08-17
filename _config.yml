@@ -16,9 +16,9 @@ author: Kathryn (Katie) Evans
 navbar-links:
   Projects:
     - Pipelines: "pipelinesp"
-    - Shiny: "shinyp"
-    - Documentation: "docsp"
+    - R Shiny: "shinyp"
     - Genetics: "geneticsp"
+    - Docs: "docsp"
   Publications: "publications"
   Education: 
     - Science blog: "https://phdisney.home.blog/"
