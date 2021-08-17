@@ -3,30 +3,48 @@ layout: page
 title: Publications
 ---
 
-# Featured publications
-
-<p class="callout info">A success message</p>
+### Featured publications
 
 **Evans K. S.**, M. H. van Wijk, P. T. McGrath, E. C. Andersen, and M. G. Sterken, 2021 [From QTL to gene: C. elegans facilitates discoveries of the genetic mechanisms underlying natural variation](https://doi.org/10.1016/j.tig.2021.06.005). Trends Genet.
 
-*Although many studies have examined quantitative trait variation across many species, only a small number of genes and thereby molecular mechanisms have been discovered. Without these data, we can only speculate about evolutionary processes that underlie trait variation. Here, we review how quantitative and molecular genetics in the nematode Caenorhabditis elegans led to the discovery and validation of 37 quantitative trait genes over the past 15 years. Using these data, we can start to make inferences about evolution from these quantitative trait genes, including the roles that coding versus noncoding variation, gene family expansion, common versus rare variants, pleiotropy, and epistasis play in trait variation across this species.*
+![]("assests/img/QTG_review_20210519_final.png")
+
+* Innovations in quantitative trait loci mapping and genome editing have led to the discovery and validation of 37 genes and variants underlying phenotypic variation in *C. elegans*.
+* Numerous recombinant panels and a large collection of wild strains make *C. elegans* a formidable model to understand quantitative trait variation.
+* Most of the identified quantitative trait genes have paralogs, providing evidence that gene duplication events are important for shaping quantitative traits.
+* Pleiotropy is relatively common among *C. elegans* quantitative trait genes.
 
 
-> **Evans K. S.**, S. Zdraljevic, L. Stevens, K. Collins, R. E. Tanny, et al., 2020 [Natural variation in the sequestosome-related gene, sqst-5, underlies zinc homeostasis in Caenorhabditis elegans](https://doi.org/10.1371/journal.pgen.1008986). PLoS Genet. 16: e1008986. 
+**Evans K. S.**, S. Zdraljevic, L. Stevens, K. Collins, R. E. Tanny, et al., 2020 [Natural variation in the sequestosome-related gene, sqst-5, underlies zinc homeostasis in Caenorhabditis elegans](https://doi.org/10.1371/journal.pgen.1008986). PLoS Genet. 16: e1008986. 
 
-*Zinc is an essential trace element that acts as a co-factor for many enzymes and transcription factors required for cellular growth and development. Altering intracellular zinc levels can produce dramatic effects ranging from cell proliferation to cell death. To avoid such fates, cells have evolved mechanisms to handle both an excess and a deficiency of zinc. Zinc homeostasis is largely maintained via zinc transporters, permeable channels, and other zinc-binding proteins. Variation in these proteins might affect their ability to interact with zinc, leading to either increased sensitivity or resistance to natural zinc fluctuations in the environment. We can leverage the power of the roundworm nematode Caenorhabditis elegans as a tractable metazoan model for quantitative genetics to identify genes that could underlie variation in responses to zinc. We found that the laboratory-adapted strain (N2) is resistant and a natural isolate from Hawaii (CB4856) is sensitive to micromolar amounts of exogenous zinc supplementation. Using a panel of recombinant inbred lines, we identified two large-effect quantitative trait loci (QTL) on the left arm of chromosome III and the center of chromosome V that are associated with zinc responses. We validated and refined both QTL using near-isogenic lines (NILs) and identified a naturally occurring deletion in sqst-5, a sequestosome-related gene, that is associated with resistance to high exogenous zinc. We found that this deletion is relatively common across strains within the species and that variation in sqst-5 is associated with zinc resistance. Our results offer a possible mechanism for how organisms can respond to naturally high levels of zinc in the environment and how zinc homeostasis varies among individuals.*
+![]("assests/img/sqst5_tree.png")
+
+
+* Zinc, although an essential metal, can be toxic if organisms are exposed to concentrations that are too high or too low
+* Using linkage mapping in *C. elegans*, we identified four loci (including the *sqst-5* locus) that contributed to differential zinc responses
+* Although SQST-5 contains a conserved zinc-binding protein domain, we were the first to directly implicate it in the *C. elegans* zinc response pathway
+* Our results offer a possible mechanism for how organisms can respond to naturally high levels of zinc in the environment and how zinc homeostasis varies among individuals
 
 **Evans K. S.**, J. Wit, L. Stevens, S. R. Hahnel, B. Rodriguez, et al., 2021 [Two novel loci underlie natural differences in Caenorhabditis elegans abamectin responses](https://doi.org/10.1371/journal.ppat.1009297). PLoS Pathog. 17: e1009297. 
 
-*Parasitic nematodes cause a massive worldwide burden on human health along with a loss of livestock and agriculture productivity. Anthelmintics have been widely successful in treating parasitic nematodes. However, resistance is increasing, and little is known about the molecular and genetic causes of resistance for most of these drugs. The free-living roundworm Caenorhabditis elegans provides a tractable model to identify genes that underlie resistance. Unlike parasitic nematodes, C. elegans is easy to maintain in the laboratory, has a complete and well annotated genome, and has many genetic tools. Using a combination of wild isolates and a panel of recombinant inbred lines constructed from crosses of two genetically and phenotypically divergent strains, we identified three genomic regions on chromosome V that underlie natural differences in response to the macrocyclic lactone (ML) abamectin. One locus was identified previously and encodes an alpha subunit of a glutamate-gated chloride channel (glc-1). Here, we validate and narrow two novel loci using near-isogenic lines. Additionally, we generate a list of prioritized candidate genes identified in C. elegans and in the parasite Haemonchus contortus by comparison of ML resistance loci. These genes could represent previously unidentified resistance genes shared across nematode species and should be evaluated in the future. Our work highlights the advantages of using C. elegans as a model to better understand ML resistance in parasitic nematodes.*
+![]("assets/img/aba_qtl2.png")
+
+* Parasitic nematode infections are a major world-wide threat and resistance to anthelmintic treatments is rampant
+* We identified three loci on chromosome V that contribute to differential responses to the anthelmintic abamectin
+* Candidate gene comparison between resistance loci in *C. elegans* and the parasite *Haemonchus contortus* found several cases of overlap between the two species
+* This study highlights the advantages of using C. elegans to understand anthelmintic resistance in parasitic nematodes
 
 ---
 
-# All publications
+### All publications
+
+Webster A. K., R. Chitrakar, M. Powell, J. Chen, K. Fisher, **Evans K. S.**, et al., 2021 [Natural variation in the irld gene family affects insulin/IGF signaling and starvation resistance](https://www.biorxiv.org/content/10.1101/2021.06.07.447366v1). bioRxiv.
 
 **Evans K. S.**, M. H. van Wijk, P. T. McGrath, E. C. Andersen, and M. G. Sterken, 2021 [From QTL to gene: C. elegans facilitates discoveries of the genetic mechanisms underlying natural variation](https://doi.org/10.1016/j.tig.2021.06.005). Trends Genet. 
 
 **Evans K. S.**, J. Wit, L. Stevens, S. R. Hahnel, B. Rodriguez, et al., 2021 [Two novel loci underlie natural differences in Caenorhabditis elegans abamectin responses](https://doi.org/10.1371/journal.ppat.1009297). PLoS Pathog. 17: e1009297. 
+
+**Evans K. S.** 2020 [Investigating the Genetic Mechanisms of Phenotypic Variation in Caenorhabditis elegans](https://www.proquest.com/openview/513a377acce9742f894a2c18badeea58/1?pq-origsite=gscholar&cbl=44156). ProQuest Dissertations Publishing.
 
 **Evans K. S.**, S. Zdraljevic, L. Stevens, K. Collins, R. E. Tanny, et al., 2020 [Natural variation in the sequestosome-related gene, sqst-5, underlies zinc homeostasis in Caenorhabditis elegans](https://doi.org/10.1371/journal.pgen.1008986). PLoS Genet. 16: e1008986. 
 

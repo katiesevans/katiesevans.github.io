@@ -4,10 +4,64 @@ title: About me
 subtitle: PhD and beyond
 ---
 
-Hi! I'm Katie, a geneticist and data scientist at Northwestern University. I love analyzing data and, even more, I love finding new solutions to help others analyze their data! You need to do some analysis? I've got a script for that. And if I don't, nothing would give me more pleasure than to create an R shiny application or a reproducible computational pipeline to help you do it more efficiently in the future. I have a deeply-rooted passion for helping to cure childhood cancer, as I lost someone close to me way too young in life. I also strongly believe in the power of education and thoroughly enjoy taking the time to teach and mentor the next generation.
+### Education
 
-### My graduate research in a nutshell
-I recieved my PhD in 2020 from the Interdisciplinary Biological Sciences ([IBiS](https://ibis.northwestern.edu/)) program at Northwestern University under the advisement of Dr. Erik Andersen. In the [Andersen Lab](https://andersenlab.org/), I used the microscopic worm *Caenorhabditis elegans* and a combination of both experimental and computational methods to help understand the genetics behind why individuals responded differently to the same drug treatments. If you are interested to learn more about my research, check out my [blog]("https://phdisney.home.blog/"), or my [projects]("projects") or [publications]("publications") pages! I also love to talk about my research, so don't hesitate to [reach out]("contactme")!
+**🎓 Doctor of Philosophy (PhD) in Quantitative Genetics, 2015-2020**
+* Interdisciplinary Biological Sciences (IBiS)
+* Northwestern University, Evanston, IL
 
-### But Katie, are you only a scientist?
-I do LOVE science, but I also have many other passions! Most nights you can find me with my nose stuck in a novel, hungry to explore new worlds. I am an avid tennis fan and love to both play and watch the sport in my free time. And I find any excuse to travel, seeking out more time in nature away from the stress of daily life.
+**🎓 Honors Bachelors of Art (HBA) in Cell and Molecular Biology, 2011-2015**
+* Minors in Chemistry and Spanish
+* University of Utah, Salt Lake City, UT
+
+### Research Experience
+
+🔬 **Bioinformatician (Present)**
+* Andersen Lab
+* Northwestern University, Evanston, IL
+
+🔬 **PhD Candidate, 2015-2020**
+* Andersen Lab
+* Northwestern University, Evanston, IL
+
+**🔬 Undergraduate Researcher, 2012-2015**
+* Graves Lab
+* Huntsman Cancer Institute, Salt Lake City, UT
+
+### Teaching Experience
+
+📒 **Course Instructor, Fall 2021**
+* Quantitative Biology: Statistics and Data Analysis for Life Scientists (IGP 484)
+* Northwestern University, Evanston, IL
+
+💻 **Data Science Consultant, 2019-2020**
+* Northwestern Research Computing Services
+* Northwestern University, Evanston, IL
+
+📒 **Teaching Assistant, 2016-2018**
+* Genetics and Molecular Processes Laboratory (BIOL SCI 220)
+* Genetic Analysis (BIOL SCI 393)
+* R bootcamp
+* Northwestern University, Evanston, IL
+
+🔬 **Undergraduate Research Mentor, 2016-Present**
+* Andersen Lab
+* Northwestern University, Evanston, IL
+
+📒 **Teaching Assistant, Spring 2015**
+* Honors Principals of Cell Biology (BIO 2021)
+* University of Utah, Salt Lake City, UT
+
+### Leadership & Outreach
+
+💡 **President & Executive Board Member, 2016-2019**
+* Northwestern Graduate Student Association
+* Northwestern University, Evanston, IL
+
+💡 **Student Director, 2018-2019**
+* Northwestern Alumni Association Board of Directors
+* Northwestern University, Evanston, IL
+
+💡 **Volunteer, 2017-2019**
+* Morning Mentors
+* Nicols Middle School, Evanston, IL
