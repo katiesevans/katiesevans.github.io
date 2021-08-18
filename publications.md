@@ -18,7 +18,7 @@ title: Publications
 
 :page_facing_up: **Evans K. S.**, S. Zdraljevic, L. Stevens, K. Collins, R. E. Tanny, et al., 2020 [Natural variation in the sequestosome-related gene, sqst-5, underlies zinc homeostasis in Caenorhabditis elegans](https://doi.org/10.1371/journal.pgen.1008986). PLoS Genet. 16: e1008986. 
 
-![](/assets/img/aba_qtl2.png)
+![](/assets/img/sqst5_tree.png)
 
 * Zinc, although an essential metal, can be toxic if organisms are exposed to concentrations that are too high or too low
 * Using linkage mapping in *C. elegans*, we identified four loci (including the *sqst-5* locus) that contributed to differential zinc responses
@@ -29,7 +29,7 @@ title: Publications
 
 :page_facing_up: **Evans K. S.**, J. Wit, L. Stevens, S. R. Hahnel, B. Rodriguez, et al., 2021 [Two novel loci underlie natural differences in Caenorhabditis elegans abamectin responses](https://doi.org/10.1371/journal.ppat.1009297). PLoS Pathog. 17: e1009297. 
 
-![](/assets/img/sqst5_tree.png)
+![](/assets/img/aba_qtl2.png)
 
 * Parasitic nematode infections are a major world-wide threat and resistance to anthelmintic treatments is rampant
 * We identified three loci on chromosome V that contribute to differential responses to the anthelmintic abamectin
