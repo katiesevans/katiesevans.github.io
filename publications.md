@@ -40,6 +40,10 @@ title: Publications
 
 ### All publications
 
+Crombie T. A., P. Battlay, R. E. Tanny, **K. S. Evans**, C. M. Buchanan, et al., 2021 [Local adaptation and spatiotemporal patterns of genetic diversity revealed by repeated sampling of Caenorhabditis elegans across the Hawaiian Islands](https://www.biorxiv.org/content/10.1101/2021.10.11.463952v1). bioRxiv.
+
+Widmayer S. J., **K. Evans**, S. Zdraljevic, and E. C. Andersen, 2021 [Evaluating the power and limitations of genome-wide association mapping in C. elegans](https://www.biorxiv.org/content/10.1101/2021.09.09.459688v1). bioRxiv.
+
 Webster A. K., R. Chitrakar, M. Powell, J. Chen, K. Fisher, **Evans K. S.**, et al., 2021 [Natural variation in the irld gene family affects insulin/IGF signaling and starvation resistance](https://www.biorxiv.org/content/10.1101/2021.06.07.447366v1). bioRxiv.
 
 **Evans K. S.**, M. H. van Wijk, P. T. McGrath, E. C. Andersen, and M. G. Sterken, 2021 [From QTL to gene: C. elegans facilitates discoveries of the genetic mechanisms underlying natural variation](https://doi.org/10.1016/j.tig.2021.06.005). Trends Genet. 
