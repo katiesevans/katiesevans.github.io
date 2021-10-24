@@ -7,8 +7,12 @@ subtitle: 💻 Bioinformatician, Andersen Lab (Northwestern University)
 **🎓 Doctor of Philosophy (PhD) in Quantitative Genetics, 2015-2020**
 > Northwestern University, Evanston, IL
 
+📒 **Course Instructor, Fall 2021**
+> Quantitative Biology: Statistics and Data Analysis for Life Scientists (IGP 484)
+> Northwestern University, Evanston, IL
+
 💻 **Data Science Consultant, 2019-2020**
-* Northwestern University Research Computing Services
+> Northwestern University Research Computing Services
 
 **🎓 Honors Bachelors of Art (HBA) in Cell and Molecular Biology, 2011-2015**
 > University of Utah, Salt Lake City, UT
