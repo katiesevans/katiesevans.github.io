@@ -19,3 +19,7 @@ I wanted to create an application that could be used to easily view and interact
 ### [Andersen Lab Linkage Mapping Analysis](https://andersen-lab.shinyapps.io/linkagemapping/)
 
 I created this application to help members of the Andersen Lab quickly look at QTL mapping data results. It was important to me that this application not only plotted the data, but also allowed for quick fine-mapping of QTL to identify potential candidate genes that might be causing drug resistance using gene functional descriptions, GO annotations, and overlapping eQTL.
+
+### [Andersen Lab NIL Genotype Browser](https://andersen-lab.shinyapps.io/nil-browser/)
+
+I created this application because I felt that the current NIL browser ([here](https://andersenlab.org/NILs/)) was not useful for what I needed. This simple application allows users to search for NILs by genomic region or plot specific user-designated strains.

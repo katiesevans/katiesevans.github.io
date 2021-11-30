@@ -40,6 +40,8 @@ title: Publications
 
 ### All publications
 
+**2021**
+
 Crombie T. A., P. Battlay, R. E. Tanny, **K. S. Evans**, C. M. Buchanan, et al., 2021 [Local adaptation and spatiotemporal patterns of genetic diversity revealed by repeated sampling of Caenorhabditis elegans across the Hawaiian Islands](https://www.biorxiv.org/content/10.1101/2021.10.11.463952v1). bioRxiv.
 
 Widmayer S. J., **K. Evans**, S. Zdraljevic, and E. C. Andersen, 2021 [Evaluating the power and limitations of genome-wide association mapping in C. elegans](https://www.biorxiv.org/content/10.1101/2021.09.09.459688v1). bioRxiv.
@@ -50,6 +52,8 @@ Webster A. K., R. Chitrakar, M. Powell, J. Chen, K. Fisher, **Evans K. S.**, et 
 
 **Evans K. S.**, J. Wit, L. Stevens, S. R. Hahnel, B. Rodriguez, et al., 2021 [Two novel loci underlie natural differences in Caenorhabditis elegans abamectin responses](https://doi.org/10.1371/journal.ppat.1009297). PLoS Pathog. 17: e1009297. 
 
+**2020**
+
 **Evans K. S.** 2020 [Investigating the Genetic Mechanisms of Phenotypic Variation in Caenorhabditis elegans](https://www.proquest.com/openview/513a377acce9742f894a2c18badeea58/1?pq-origsite=gscholar&cbl=44156). ProQuest Dissertations Publishing.
 
 **Evans K. S.**, S. Zdraljevic, L. Stevens, K. Collins, R. E. Tanny, et al., 2020 [Natural variation in the sequestosome-related gene, sqst-5, underlies zinc homeostasis in Caenorhabditis elegans](https://doi.org/10.1371/journal.pgen.1008986). PLoS Genet. 16: e1008986. 
@@ -58,11 +62,17 @@ Webster A. K., R. Chitrakar, M. Powell, J. Chen, K. Fisher, **Evans K. S.**, et 
 
 **Evans K. S.**, and E. C. Andersen, 2020a [The Gene scb-1 Underlies Variation in Caenorhabditis elegans Chemotherapeutic Responses](https://doi.org/10.1534/g3.120.401310). G3. 
 
+**2019**
+
 Crombie T. A., S. Zdraljevic, D. E. Cook, R. E. Tanny, S. C. Brady, **K. S. Evans**, et al., 2019 [Deep sampling of Hawaiian Caenorhabditis elegans reveals high genetic diversity and admixture with global populations](https://doi.org/10.7554/eLife.50465). Elife 8: e50465. 
 
 Kim C., J. Kim, S. Kim, D. E. Cook, **K. S. Evans**, et al., 2019 [Long-read sequencing reveals intra-species tolerance of substantial structural variations and new subtelomere formation in C. elegans](https://doi.org/10.1101/gr.246082.118). Genome Res. 29: 1023–1035. 
 
+**2018**
+
 **Evans K. S.**, S. C. Brady, J. S. Bloom, R. E. Tanny, D. E. Cook, et al., 2018 [Shared Genomic Regions Underlie Natural Variation in Diverse Toxin Responses](https://doi.org/10.1534/genetics.118.301311). Genetics. 
+
+**2017**
 
 Currie S. L., J. J. Doane, **K. S. Evans**, N. Bhachech, B. J. Madison, et al., 2017 [ETV4 and AP1 transcription factors form multivalent interactions with three sites on the MED25 activator-interacting domain](https://doi.org/10.1016/j.jmb.2017.06.024). J. Mol. Biol. 
 

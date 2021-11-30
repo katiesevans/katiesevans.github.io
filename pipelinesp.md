@@ -13,7 +13,7 @@ Nextflow is an awesome program that allows you to write a computational pipeline
 * [**concordance-nf**](https://github.com/AndersenLab/concordance-nf) - Pipeline to calculate genetic relatedness between strains
 * [**linkagemapping-nf**](https://github.com/AndersenLab/linkagemapping-nf) - Perform QTL mapping with linkage mapping
 * [**nil-ril-nf**](https://github.com/AndersenLab/nil-ril-nf) - Pipeline to assign genotypes to near-isogenic lines and recombinant lines (not wild isolates)
-* [**post-gatk-nf**](https://github.com/AndersenLab/post-gatk-nf) - Annotate VCF and perform species-wide population genetics analyses
+* [**post-gatk-nf**](https://github.com/AndersenLab/post-gatk-nf) and [**annotation-nf**](https://github.com/AndersenLab/annotation-nf) - Annotate VCF and perform species-wide population genetics analyses
 * [**wi-gatk**](https://github.com/AndersenLab/wi-gatk) - Generate species-wide VCF using GATK haplotype-aware variant calling
 
 💡 **I also maintain the [Andersen Lab dry guide](http://andersenlab.org/dry-guide/latest/) which details how to execute all of the above pipelines as well as contains tips and tricks for learning to code in R, the command line, and Nextflow**
