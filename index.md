@@ -4,9 +4,7 @@ title: Hi, I'm Katie
 subtitle: 💻 Bioinformatician, Andersen Lab (Northwestern University)
 ---
 
-**🎓 Doctor of Philosophy (PhD) in Quantitative Genetics, 2015-2020**
-> Northwestern University, Evanston, IL
----
+![](/assets/img/phd.png)
 
 Hi! I'm Katie, a geneticist and data scientist at Northwestern University. I love analyzing data and, even more, I love finding new solutions to help others analyze their data! You need to do some analysis? I've got a script for that. And if I don't, nothing would give me more pleasure than to create an R shiny application or a reproducible computational pipeline to help you do it more efficiently in the future. I have a deeply-rooted passion for helping to cure childhood cancer, as I lost someone close to me way too young in life. I also strongly believe in the power of education and thoroughly enjoy taking the time to teach and mentor the next generation.
 
