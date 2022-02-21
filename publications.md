@@ -42,7 +42,7 @@ title: Publications
 
 **2021**
 
-Crombie T. A., P. Battlay, R. E. Tanny, **K. S. Evans**, C. M. Buchanan, et al., 2021 [Local adaptation and spatiotemporal patterns of genetic diversity revealed by repeated sampling of Caenorhabditis elegans across the Hawaiian Islands](https://www.biorxiv.org/content/10.1101/2021.10.11.463952v1). bioRxiv.
+Crombie T. A., P. Battlay, R. E. Tanny, **K. S. Evans**, C. M. Buchanan, et al., 2022 [Local adaptation and spatiotemporal patterns of genetic diversity revealed by repeated sampling of Caenorhabditis elegans across the Hawaiian Islands](https://pubmed.ncbi.nlm.nih.gov/35167162/). Mol. Ecol. https://doi.org/10.1111/mec.16400
 
 Widmayer S. J., **K. Evans**, S. Zdraljevic, and E. C. Andersen, 2021 [Evaluating the power and limitations of genome-wide association mapping in C. elegans](https://www.biorxiv.org/content/10.1101/2021.09.09.459688v1). bioRxiv.
 
