@@ -17,3 +17,20 @@ Nextflow is an awesome program that allows you to write a computational pipeline
 * [**wi-gatk**](https://github.com/AndersenLab/wi-gatk) - Generate species-wide VCF using GATK haplotype-aware variant calling
 
 💡 **I also maintain the [Andersen Lab dry guide](http://andersenlab.org/dry-guide/latest/) which details how to execute all of the above pipelines as well as contains tips and tricks for learning to code in R, the command line, and Nextflow**
+
+### Coding skills highlights (/5⭐):
+- General problem solving: ⭐⭐⭐⭐⭐
+- R: ⭐⭐⭐⭐⭐
+- R-Tidyverse: ⭐⭐⭐⭐⭐
+- Data wrangling: ⭐⭐⭐⭐⭐
+- Data visulization: ⭐⭐⭐⭐⭐
+- Git/GitHub: ⭐⭐⭐⭐
+- R-Shiny Web App: ⭐⭐⭐⭐
+- Nextflow: ⭐⭐⭐⭐
+- Command line scripting: ⭐⭐⭐⭐
+- Conda environments: ⭐⭐⭐⭐
+- High Performance Cluster Computing: ⭐⭐⭐⭐
+- Docker/singularity images: ⭐⭐⭐
+- Google Cloud Platform: ⭐⭐⭐
+- Python: ⭐⭐
+- Java/Javascript: ⭐
