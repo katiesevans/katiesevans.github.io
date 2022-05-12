@@ -6,7 +6,7 @@ subtitle: Using Nextflow for reproducible research
 
 Nextflow is an awesome program that allows you to write a computational pipeline by making it simpler to put together many different tasks, maybe even using different programming languages. Nextflow makes parallelism easy and works to schedule jobs so you don't have to! Nextflow also supports docker containers and conda enviornments to streamline reproducible pipelines and can be easily adapted to run on different systems! Not convinced? Check out this [intro](https://www.nextflow.io/).
 
-### Some of the genomics/data analysis pipelines I currently contribute to:
+### Some of the genomics/data analysis pipelines I contribute to:
 * [**NemaScan**](https://github.com/AndersenLab/NemaScan) and [**cegwas2-nf**](https://github.com/AndersenLab/cegwas2-nf) - Genome-wide association mapping and simulations
 * [**alignment-nf**](https://github.com/AndersenLab/alignment-nf) - A nextflow pipeline for genome sequences alignment
 * [**trim-fq-nf**](https://github.com/AndersenLab/trim-fq-nf) - Performs FASTQ trimming to remove poor quality sequences and technical sequences such as adapters

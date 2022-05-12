@@ -15,8 +15,14 @@ subtitle: PhD and beyond
 
 ### Research Experience
 
-🔬 **Bioinformatician (2021-Present)**
-*Andersen Lab, Northwestern University, Evanston, IL*
+💻 **Data Scientist (2022-Present)**
+*[Precision Biosciences](https://precisionbiosciences.com/), Durham, NC*
+* Leverage advanced computation approaches and collaborate with Genomics team members to create advanced assays for genome editing outcomes
+* Analyze experimental data produced by next-generation sequencing (NGS) 
+* Maintain current and develop new computational and bioinformatic tools
+
+🔬 **Bioinformatician (2021-2022)**
+*[Andersen Lab](andersenlab.org), Northwestern University, Evanston, IL*
 * Manage, organize, and analyze whole-genome sequence data for thousands of strains across three *Caenorhabditis* species including all data releases for the *C. elegans* Natural Diversity Resource ([CeNDR](elegansvariation.org))
 * Develop and maintain all [bioinformatic pipelines](pipelinesp.md) for the Andersen Lab including those for variant calling, population genomics, and genome-wide association mappings (proficient in R, Nextflow, and bash scripting)
 * Main contributor of a small team that adapted our GWAS pipeline, [NemaScan](github.com/andersenlab/nemascan), to be run on the Google Cloud Platform so that researchers can perform their own mappings through our web resource, [CeNDR](https://elegansvariation.org/mapping/perform-mapping/)
