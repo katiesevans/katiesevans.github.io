@@ -42,9 +42,9 @@ title: Publications
 
 **2021**
 
-Crombie T. A., P. Battlay, R. E. Tanny, **K. S. Evans**, C. M. Buchanan, et al., 2022 [Local adaptation and spatiotemporal patterns of genetic diversity revealed by repeated sampling of Caenorhabditis elegans across the Hawaiian Islands](https://pubmed.ncbi.nlm.nih.gov/35167162/). Mol. Ecol. https://doi.org/10.1111/mec.16400
+Crombie T. A., P. Battlay, R. E. Tanny, **K. S. Evans**, C. M. Buchanan, et al., 2022 [Local adaptation and spatiotemporal patterns of genetic diversity revealed by repeated sampling of Caenorhabditis elegans across the Hawaiian Islands](https://pubmed.ncbi.nlm.nih.gov/35167162/). Mol. Ecol.
 
-Widmayer S. J., **K. Evans**, S. Zdraljevic, and E. C. Andersen, 2021 [Evaluating the power and limitations of genome-wide association mapping in C. elegans](https://www.biorxiv.org/content/10.1101/2021.09.09.459688v1). bioRxiv.
+Widmayer S. J., **K. Evans**, S. Zdraljevic, and E. C. Andersen, 2022 [Evaluating the power and limitations of genome-wide association studies in C. elegans](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkac114/6583190?login=false). G3.
 
 Webster A. K., R. Chitrakar, M. Powell, J. Chen, K. Fisher, **Evans K. S.**, et al., 2021 [Natural variation in the irld gene family affects insulin/IGF signaling and starvation resistance](https://www.biorxiv.org/content/10.1101/2021.06.07.447366v1). bioRxiv.
 
